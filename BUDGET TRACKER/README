@@ -14,4 +14,5 @@ This project is a personal BI dashboard built with **Power BI** to track and vis
 - Monthly trends in spending habits  
 - Savings vs. expenses  
 
+Note: All data in this project was generated with Python code and contains only dummy values for demonstration purposes. The script used for dummy data creation is included in this repository.
 
